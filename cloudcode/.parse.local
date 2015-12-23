@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Moffee": {
+      "applicationId": "tIEK8a30YyrxWihmgzLnmv5DzfUF6oxllsiOGub8"
+    },
+    "_default": {
+      "link": "Moffee"
+    }
+  }
+}
